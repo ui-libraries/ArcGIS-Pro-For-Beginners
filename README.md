@@ -550,7 +550,7 @@ Now you are ready to export the layout to a PDF. From the options at the top, se
 
 Before clicking "Export" in the dialog box, title your PDF "Iowa_Tracts_Life_Expectancy.pdf" and make sure the path is to your project folder. Set the quality to max and the vector resolution to 300 DPI. Click "Export" and, if you go to your project folder and open the exported PDF document, you will see a beautiful finalized map, which you can add to any number of documents for publication or presentation.
 
-![Final product](images/final-map.png)
+![Final product](images/final-map.png)<br>
 **Figure 59**. The final product.
 
 Congratulations! I hope you learned a lot about using ArcGIS Pro for mapmaking and that this document proves to be a helpful reference in the future. Enjoy your mapping!
